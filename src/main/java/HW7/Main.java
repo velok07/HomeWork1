@@ -24,6 +24,9 @@ public class Main {
 
         }
 
+        plate.addFood(100);
+        plate.plateInfo();
+
 
 
     }
