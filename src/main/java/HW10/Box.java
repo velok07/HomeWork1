@@ -3,6 +3,7 @@ package HW10;
 public class Box<T> {
         private T[] fruitBox;
 
+
     public Box(T[] fruitBox) {
         this.fruitBox = fruitBox;
     }
